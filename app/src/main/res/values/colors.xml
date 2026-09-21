@@ -1,0 +1,7 @@
+<resources>
+    <color name="day_empty">#F1F1F1</color>
+    <color name="day_started">#FFF0A6</color>
+    <color name="day_target">#B9E6B9</color>
+    <color name="day_full">#AFC8F5</color>
+    <color name="today_border">#222222</color>
+</resources>
